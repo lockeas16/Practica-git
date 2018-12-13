@@ -1,3 +1,4 @@
 Name: lockeas16
 Age: 32
 Favorite Color: Blue
+Modificacion hecha desde GitHub despues de resolver push request desde local
