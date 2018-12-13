@@ -1,0 +1,3 @@
+Name: lockeas16
+Age: 32
+Favorite Color: Blue
